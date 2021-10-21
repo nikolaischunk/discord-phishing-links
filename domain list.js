@@ -133,4 +133,5 @@ const suspiciousDomains = [
   'steamdlscords.com',
   'steamsdiscord.com',
   'steancommunity.link',
+  'discordi.gift',
 ]
