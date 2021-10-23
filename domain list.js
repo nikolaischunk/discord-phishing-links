@@ -136,4 +136,5 @@ const suspiciousDomains = [
   'discordi.gift',
   'discordn.gift',
   'discordgifts.me',
+  'discorcd-gift.com',
 ]
