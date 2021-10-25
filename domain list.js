@@ -73,7 +73,7 @@ const suspiciousDomains = [
   'discord.giveaweys.com',
   'discord.moscow',
   'discordapp.click',
-//  'discordapp.co',
+  //  'discordapp.co',
   'discordapp.gg',
   'discordapp.info',
   'discordapp.one',
@@ -139,4 +139,5 @@ const suspiciousDomains = [
   'discorcd-gift.com',
   'discond.gift',
   'dliscord.com',
+  'discordll.gift',
 ]
