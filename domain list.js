@@ -149,4 +149,5 @@ const suspiciousDomains = [
   'bit.ly/3we2sYy',
   'bit.ly/dsniitroz',
   'bit.ly/3GMGKzL',
+  'disccords.com',
 ]
