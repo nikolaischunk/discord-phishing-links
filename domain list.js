@@ -148,4 +148,5 @@ const suspiciousDomains = [
   'discorclgift.net.ru',
   'bit.ly/3we2sYy',
   'bit.ly/dsniitroz',
+  'bit.ly/3GMGKzL',
 ]
