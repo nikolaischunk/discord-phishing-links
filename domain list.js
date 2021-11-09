@@ -151,5 +151,6 @@ const suspiciousDomains = [
   'bit.ly/3GMGKzL',
   'disccords.com',
   'discord-get.xyz',
-  'discrod-apps.xyz'
+  'discrod-apps.xyz',
+  'bit.ly/3CUIog5',
 ]
