@@ -154,4 +154,5 @@ const suspiciousDomains = [
   'discrod-apps.xyz',
   'bit.ly/3CUIog5',
   'discrod-gifte.com/nitro',
+  'bit.ly/3FoNq5H',
 ]
