@@ -153,6 +153,7 @@ const suspiciousDomains = [
   'discord-get.xyz',
   'discrod-apps.xyz',
   'bit.ly/3CUIog5',
-  'discrod-gifte.com/nitro',
+  'discrod-gifte.com',
   'bit.ly/3FoNq5H',
+  'dlsccord-apps.club'
 ]
