@@ -155,5 +155,7 @@ const suspiciousDomains = [
   'bit.ly/3CUIog5',
   'discrod-gifte.com',
   'bit.ly/3FoNq5H',
-  'dlsccord-apps.club'
+  'dlsccord-apps.club',
+  'discord-gg.com',
+  'discordg.com.ru',
 ]
