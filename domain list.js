@@ -161,4 +161,5 @@ const suspiciousDomains = [
   'discort-nitro.com',
   'dlsccord-app.club',
   'bit.ly/30ZM1Uc',
+  'discorcd-apps.com',
 ]
