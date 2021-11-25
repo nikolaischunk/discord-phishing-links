@@ -159,4 +159,5 @@ const suspiciousDomains = [
   'discord-gg.com',
   'discordg.com.ru',
   'discort-nitro.com',
+  'dlsccord-app.club',
 ]
