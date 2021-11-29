@@ -162,4 +162,5 @@ const suspiciousDomains = [
   'dlsccord-app.club',
   'bit.ly/30ZM1Uc',
   'discorcd-apps.com',
+  'dicsord-present.ru',
 ]
