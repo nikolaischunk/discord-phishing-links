@@ -180,4 +180,5 @@ const suspiciousDomains = [
   'stearncormnniuty.ru',
   'discordg.link',
   'clck.ru', //russian grabber??
+  'disordsnitros.gifts',
 ]
