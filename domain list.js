@@ -186,4 +186,5 @@ const suspiciousDomains = [
   'dicsord-gifts.ru',
   'discordrsgift.xyz',
   'disccord-gift.com',
+  'dlscord-nitro.me',
 ]
