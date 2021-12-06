@@ -154,12 +154,6 @@ const suspiciousDomains = [
     "discrod-apps.xyz",
     "bit.ly/3CUIog5",
     "discrod-gifte.com",
-    "diisccord-gift.com",
-    "discorde-gift.com",
-    "fullnltro.com",
-    "dlsocrd.com",
-    "dicsordgifts.xyz",
-    "dicsordgifts.ru",
     "bit.ly/3FoNq5H",
     "dlsccord-apps.club",
     "discord-gg.com",
@@ -192,5 +186,12 @@ const suspiciousDomains = [
     "dicsord-gifts.ru",
     "discordrsgift.xyz",
     "disccord-gift.com",
-    "dlscord-nitro.me"
+    "dlscord-nitro.me",
+    "discrod-gifte.com",
+    "diisccord-gift.com",
+    "discorde-gift.com",
+    "fullnltro.com",
+    "dlsocrd.com",
+    "dicsordgifts.xyz",
+    "dicsordgifts.ru"
 ];
