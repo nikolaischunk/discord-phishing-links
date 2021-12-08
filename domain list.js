@@ -196,4 +196,6 @@ const suspiciousDomains = [
   "diiscord-app.com",
   "dlscords.shop",
   "dicordglfts.cf",
+  'tinyurl.com/yxpwrn87',
+  'dlscordrglft.xyz',
 ];
