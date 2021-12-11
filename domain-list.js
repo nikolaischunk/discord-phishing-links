@@ -205,4 +205,5 @@ const suspiciousDomains = [
   "bit.ly/31IgOFy",
   "tinyurl.com/yxfvumae",
   "dlscorld.xyz",
+  'gg-nitro.com',
 ];
