@@ -1,7 +1,10 @@
 const suspiciousDomains = [
   "disordapp.codes",
+  "discord-full.xyz",
   "discord-gifte.com",
+  "diiscord-app.com",
   "dlscorcl.gift",
+  "dlscorld-glft.xyz",
   "dlscord.net",
   "dlscocrdapp.com",
   "discordd.gift",
@@ -31,6 +34,7 @@ const suspiciousDomains = [
   "discoapps.club",
   "discocrd-nitro.com",
   "discocrd.com",
+  "dlscorld-get.xyz",
   "discocrd.gift",
   "discocrdapp.com",
   "discod.art",
