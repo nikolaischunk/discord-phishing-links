@@ -7,6 +7,7 @@ const suspiciousDomains = [
     "dlscorcl.gift",
     "dlscorld-glft.xyz",
     "dlscord.net",
+    "dlscordnitro.xyz",
     "dlscord.click",
     "dlscocrdapp.com",
     "discordd.gift",
