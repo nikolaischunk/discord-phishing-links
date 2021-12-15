@@ -214,4 +214,5 @@ const suspiciousDomains = [
     "discordnltro.gift",
     "dlcsordglft.xyz",
     "dlscorld.gifts",
+    "discord-full.shop",
 ];
