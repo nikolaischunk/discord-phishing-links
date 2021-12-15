@@ -231,4 +231,8 @@ const suspiciousDomains = [
   "nitro-gg.com",
   "tinyurl.com/y26ww3vg",
   "dlisocrd.ru",
+  "discordnitro.store",
+  "discordnitro.gifts",
+  "freenitros.com",
+  "discord-faq.com",
 ];
