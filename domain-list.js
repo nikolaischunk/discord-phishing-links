@@ -213,7 +213,7 @@ const suspiciousDomains = [
     "gg-nitro.com",
     "dlscord.top",
     "tinyurl.com/y5qhxojv",
-    "https://bit.ly/33pGfML",
+    "bit.ly/33pGfML",
     "discordnltro.xyz",
     "dlscrod-gift.com",
     "discordnltro.gift",
