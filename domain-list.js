@@ -3,6 +3,7 @@ const suspiciousDomains = [
     "discord-full.xyz",
     "discrode-gift.club",
     "discord-gifte.com",
+    "bit.ly/3ELDUtj",
     "diiscord-app.com",
     "dlscorcl.gift",
     "dlscorld-glft.xyz",
