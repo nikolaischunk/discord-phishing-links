@@ -237,5 +237,10 @@ const suspiciousDomains = [
   "discord-faq.com",
   "dliscord.gifts",
   "discordgift-nitro.com",
-  "discord-nitro.net"
+  "discord-nitro.net",
+  "dlisocrd.ru",
+  "dlisocrd.com",
+  "gift-discords.com",
+  "discord-free.ru.com",
+  "discords-gifts.club",
 ];
