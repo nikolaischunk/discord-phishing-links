@@ -1,4 +1,4 @@
-# discord-tokenlogger-link-list
+# Discord Phishing Links
 
 A list of malicious links which is used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
