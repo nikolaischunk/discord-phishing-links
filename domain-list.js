@@ -243,4 +243,8 @@ const suspiciousDomains = [
   "discord-free.ru.com",
   "discords-gifts.club",
   "steamdiscordj.com",
+  "tinyurl.com/y5lselo9",
+  "discorrc-apps.com",
+  "discord-appss.ru",
+  "nitro-full.xyz",
 ];
