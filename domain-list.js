@@ -242,4 +242,5 @@ const suspiciousDomains = [
   "gift-discords.com",
   "discord-free.ru.com",
   "discords-gifts.club",
+  "steamdiscordj.com",
 ];
