@@ -249,5 +249,4 @@ const suspiciousDomains = [
   "nitro-full.xyz",
   "discorde-nitro.com",
   "discord-gifft.com",
-  
 ];
