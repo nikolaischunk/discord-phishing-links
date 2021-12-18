@@ -248,4 +248,6 @@ const suspiciousDomains = [
   "discord-appss.ru",
   "nitro-full.xyz",
   "discorde-nitro.com",
+  "discord-gifft.com",
+  
 ];
