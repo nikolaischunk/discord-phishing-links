@@ -255,6 +255,5 @@ const suspiciousDomains = [
   "disordnitro.xyz",
   "dlscord-collaboration.com",
   "steamdiscordc.com",
-  "discrode-gift.club",
   "steamsdiscordl.com",
 ];
