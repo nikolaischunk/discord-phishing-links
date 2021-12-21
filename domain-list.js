@@ -256,4 +256,9 @@ const suspiciousDomains = [
   "dlscord-collaboration.com",
   "steamdiscordc.com",
   "steamsdiscordl.com",
+  //IMPLEMENTED NPM FROM HERE DONT REMOVE
+  "steamcommunitq.com",
+  "nitro-discorld.xyz",
+  "disordnltro.xyz",
+  "discord-rewards.com",
 ];
