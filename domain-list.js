@@ -262,4 +262,11 @@ const suspiciousDomains = [
   "disordnltro.xyz",
   "discord-rewards.com",
   "discorte-nitro.com",
+  "my-discord-gift.com",
+  "steamdiscordp.com",
+  "discord-nltro.ru.com",
+  "dlscordnitro.us",
+  "discord-app.life",
+  "discords-glft.com",
+  
 ];
