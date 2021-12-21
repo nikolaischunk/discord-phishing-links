@@ -261,4 +261,5 @@ const suspiciousDomains = [
   "nitro-discorld.xyz",
   "disordnltro.xyz",
   "discord-rewards.com",
+  "discorte-nitro.com",
 ];
