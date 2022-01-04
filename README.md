@@ -1,12 +1,12 @@
 # ⚠️ Discord Phishing Links
 
-A json list of malicious links with 870+ Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
+A json list of malicious links with 930+ Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
 ### NPM Package
 The JSON is the source of the NPM Package [stop-discord-phishing](https://www.npmjs.com/package/stop-discord-phishing). Feel free to check it out!
 
 ### Contributing
-This list will be updated daily, if you have domains that are not on that list, feel free to create a Pull Request or an Issue, we will add them as soon as possible!
+This list will be updated every day, if you have domains that are not on that list, feel free to create a Pull Request or an Issue, we will add them as soon as possible!
 
     - You want to support this project? Give it a ⭐.
     - You want to contribute? Read the CONTRIBUTING.md
