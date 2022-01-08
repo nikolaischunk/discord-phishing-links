@@ -8,7 +8,7 @@ Below are some general rules & guidelines to keep in mind before and while contr
 
 ## Add Phishing Domains
 
-To add domains to this repo, fork this repo, add the domain in [domain-list.json](https://github.com/SealedSaucer/discord-phishing-links/blob/main/domain-list.json), and then finally create a Pull Request. We will merge the PR once we verify it.
+To add domains to this repo, fork this repo, add the domain in [domain-list.json](https://github.com/nikolaischunk/discord-phishing-links/blob/main/domain-list.json), and then finally create a Pull Request. We will merge the PR once we verify it.
 
 **Note : Include the domain name only (No http / https)**
 
@@ -16,7 +16,7 @@ Example : Add `google.com` instead of `https://google.com`
 
 ## Add Phishing URLs
 
-To add URLs to this repo, fork this repo, add the domain in [domain-list.json](https://github.com/SealedSaucer/discord-phishing-links/blob/main/domain-list.json), and then finally create a Pull Request. We will merge the PR once we verify it.
+To add URLs to this repo, fork this repo, add the domain in [domain-list.json](https://github.com/nikolaischunk/discord-phishing-links/blob/main/domain-list.json), and then finally create a Pull Request. We will merge the PR once we verify it.
 
 **Note : Include the whole link**
 
