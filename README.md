@@ -1,6 +1,6 @@
 # ⚠️ Discord Phishing Links
 
-A json list of malicious links with 1660+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
+A json list of malicious links with 2000+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
 ## NPM Package
 
