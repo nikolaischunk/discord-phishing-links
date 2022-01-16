@@ -1,6 +1,6 @@
 # ⚠️ Discord Phishing Links
 
-A json list of malicious links with 2000+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
+A json list of malicious links with 6700+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
 ## NPM Package
 
@@ -36,3 +36,5 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 - [scam-links](https://github.com/DevSpen/scam-links)
 - [AntiScam scam-link](https://github.com/Discord-AntiScam/scam-links)
 - [Phishing Domain API](https://api.hyperphish.com/gimme-domains)
+
+Huge thanks to this Repositories and API's that allow us to maintain such a huge list of Domains
