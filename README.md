@@ -35,3 +35,4 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 - [SteamNitroPhishingLinks](https://github.com/0x4Hydro/SteamNitroPhishingLinks)
 - [scam-links](https://github.com/DevSpen/scam-links)
 - [AntiScam scam-link](https://github.com/Discord-AntiScam/scam-links)
+- [Phishing Domain API](https://api.hyperphish.com/gimme-domains)
