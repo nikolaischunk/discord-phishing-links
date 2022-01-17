@@ -36,5 +36,7 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 - [scam-links](https://github.com/DevSpen/scam-links)
 - [AntiScam scam-link](https://github.com/Discord-AntiScam/scam-links)
 - [Phishing Domain API](https://api.hyperphish.com/gimme-domains)
+- [pish.sinking.yachts](https://phish.sinking.yachts/docs#/v2/all_domains_v2_all_get)
+- [anti-fish](https://anti-fish.bitflow.dev)
 
 Huge thanks to this Repositories and API's that allow us to maintain such a huge list of Domains
