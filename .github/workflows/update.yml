@@ -1,0 +1,62 @@
+name: "Sort and update plain text files"
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events when some specific files change
+  push:
+    paths:
+      - "domain-list.json"
+      - "suspicious-list.json"
+  pull_request:
+    paths:
+      - "domain-list.json"
+      - "suspicious-list.json"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-repository:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false # use personal token instead of GITHUB_TOKEN
+          fetch-depth: 0
+
+      # Use JQ for json sorting and json parser
+      - uses: sergeysova/jq-action@v2
+
+      - name: Sort domain-list.json
+        continue-on-error: false
+        run: "jq '.domains |= sort_by(.)' domain-list.json > tmp-domain-list.json && mv tmp-domain-list.json domain-list.json"
+
+      - name: Sort suspicious-list.json
+        continue-on-error: false
+        run: "jq '.domains |= sort_by(.)' suspicious-list.json > tmp-suspicious-list.json && mv tmp-suspicious-list.json suspicious-list.json"
+
+      - name: Generate plain text file domain-list.txt
+        continue-on-error: false
+        run: "jq -r '.domains[]' domain-list.json > tmp-domain-list.txt && mv tmp-domain-list.txt domain-list.txt"
+
+      - name: Generate plain text file suspicious-list.txt
+        continue-on-error: false
+        run: "jq -r '.domains[]' suspicious-list.json > tmp-suspicious-list.txt && mv tmp-suspicious-list.txt suspicious-list.txt"
+
+      - name: Commit files
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
+          git commit -m "Sort and update plain text files" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        continue-on-error: true
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
