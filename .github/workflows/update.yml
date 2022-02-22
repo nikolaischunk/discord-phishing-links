@@ -52,6 +52,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
+          git add .
           git commit -m "Sort and update plain text files" -a
 
       - name: Push changes
