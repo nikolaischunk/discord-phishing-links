@@ -39,7 +39,7 @@ jobs:
         continue-on-error: false
         run: "jq '.domains |= sort_by(.)' suspicious-list.json > tmp-suspicious-list.json && mv tmp-suspicious-list.json suspicious-list.json"
 
-      - name: Generate plain test files domain-list.txt
+      - name: Generate plain text file domain-list.txt
         continue-on-error: false
         run: "jq -r '.domains[]' domain-list.json > tmp-domain-list.txt && mv tmp-domain-list.txt domain-list.txt"
 
