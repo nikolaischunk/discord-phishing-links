@@ -4,10 +4,8 @@ name: "Sort and update plain text files"
 on:
   # Triggers the workflow on push or pull request events when some specific files change
   push:
-    paths:
-      - "domain-list.json"
-      - "suspicious-list.json"
-  pull_request:
+    branches:
+      - main
     paths:
       - "domain-list.json"
       - "suspicious-list.json"
@@ -33,19 +31,19 @@ jobs:
 
       - name: Sort domain-list.json
         continue-on-error: false
-        run: "jq '.domains |= sort_by(.)' domain-list.json > tmp-domain-list.json && mv tmp-domain-list.json domain-list.json"
+        run: "jq '.domains |= (sort | unique)' domain-list.json > tmp-domain-list.json && mv tmp-domain-list.json domain-list.json"
 
       - name: Sort suspicious-list.json
         continue-on-error: false
-        run: "jq '.domains |= sort_by(.)' suspicious-list.json > tmp-suspicious-list.json && mv tmp-suspicious-list.json suspicious-list.json"
+        run: "jq '.domains |= (sort | unique)' suspicious-list.json > tmp-suspicious-list.json && mv tmp-suspicious-list.json suspicious-list.json"
 
       - name: Generate plain text file domain-list.txt
         continue-on-error: false
-        run: "jq -r '.domains[]' domain-list.json > tmp-domain-list.txt && mv tmp-domain-list.txt domain-list.txt"
+        run: "jq -r '.domains[]' domain-list.json > tmp-domain-list.txt && mkdir -p txt && mv tmp-domain-list.txt txt/domain-list.txt"
 
       - name: Generate plain text file suspicious-list.txt
         continue-on-error: false
-        run: "jq -r '.domains[]' suspicious-list.json > tmp-suspicious-list.txt && mv tmp-suspicious-list.txt suspicious-list.txt"
+        run: "jq -r '.domains[]' suspicious-list.json > tmp-suspicious-list.txt && mkdir -p txt && mv tmp-suspicious-list.txt txt/suspicious-list.txt"
 
       - name: Commit files
         continue-on-error: true
