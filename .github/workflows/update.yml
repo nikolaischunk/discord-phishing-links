@@ -4,10 +4,8 @@ name: "Sort and update plain text files"
 on:
   # Triggers the workflow on push or pull request events when some specific files change
   push:
-    paths:
-      - "domain-list.json"
-      - "suspicious-list.json"
-  pull_request:
+    branches:
+      - main
     paths:
       - "domain-list.json"
       - "suspicious-list.json"
