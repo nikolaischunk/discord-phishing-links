@@ -87,6 +87,7 @@ bycdu.cam
 bycsdu.cam
 bysellers.xyz
 c-you-mamont.ru
+cardgen.uno
 case-gift.com
 case-give.com
 case-magic.space
