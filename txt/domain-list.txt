@@ -140,6 +140,7 @@ auth-discord.com
 authnet.cf
 be-developersacademy.info
 be-moderator.com
+become-hypesquad.com
 become-mod.com
 become-moderator.com
 become-moderators.com
@@ -3502,6 +3503,7 @@ everpg.online
 ewaveleague.com
 ewqdsa.xyz
 exaltedbot.xyz
+exam-certified-moderator.com
 exam-discord.com
 exam-hypesquad.com
 exam-modacademy.com
@@ -3583,6 +3585,7 @@ formtest-academy.com
 formulary-academy-team.com
 formulary-applications.com
 formulary-apply.com
+formulary-axam.com
 formulary-discord-hypesquad.com
 formulary-hypeacademy.com
 formulary-hypediscord.com
@@ -4112,6 +4115,7 @@ invite-hypesquad-academy.com
 invite-hypesquad-events.com
 invite-hypesquad.com
 invite-moderation-discord.com
+invite-moderator-academy.net
 invite-moderator-academy.org
 invite-moderator.tk
 invite-moderatoracademy.com
@@ -4122,6 +4126,7 @@ invited-moderator-academy.com
 invitemoderator.com
 invitemoderatoracademy.com
 invitemoderatordiscord.com
+invitemoderatorinstitute.com
 iron-nitro.com
 is.gd/3iztxp
 iscord.xyz
@@ -4144,6 +4149,7 @@ join-discord-events.com
 join-discord.com
 join-discordevents.com
 join-events-hypesquads.com
+join-eventshypesquad.com
 join-form-academy.com
 join-formulary-moderator-test.com
 join-formulary.com
@@ -5074,6 +5080,7 @@ reslike.net
 ressbit.com
 retur-hypesquad.com
 returns-academy.com
+returns-eventhypesquad.com
 returns-eventshypesquad.com
 returns-eventshypsquad.com
 returns-hypesquad.com
@@ -5303,6 +5310,7 @@ signupmoderationdiscord.com
 simplenitro.com
 singup-discord-hypesquad.com
 singup-discordmoderator.com
+singup-hypesquad-events.com
 singup-hypesquad.com
 singup-hypesquadacademy.org
 singup-moderator.com
@@ -6018,6 +6026,7 @@ steamcomity.com
 steamcomiunity.com
 steamcomiunity.xyz
 steamcomiynuytiy.net.ru
+steamcomlmunity.com
 steamcommanitty.ru
 steamcommanity.ru
 steamcommaunity.com
@@ -6183,6 +6192,7 @@ steamcommumitiy.com
 steamcommumituy.com
 steamcommumity.biz
 steamcommumity.net
+steamcommumity.xyz
 steamcommumiuty.com
 steamcommumlity.com
 steamcommummuity.ru.com
