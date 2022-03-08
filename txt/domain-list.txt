@@ -4052,6 +4052,7 @@ hypesquad-teams.com
 hypesquad-test.com
 hypesquad-tester.com
 hypesquad-tests.com
+hypesquad-us.repl.co
 hypesquad-verified.com
 hypesquad-vote-go.com
 hypesquad-votes.com
