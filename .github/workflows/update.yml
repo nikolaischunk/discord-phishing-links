@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - new-domains
     paths:
       - "domain-list.json"
       - "suspicious-list.json"
