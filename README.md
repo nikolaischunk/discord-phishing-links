@@ -32,6 +32,7 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 
 | Domain          | Reason                              |
 | --------------- | ----------------------------------- |
+| `ord.gg`        | Cause for some false positive flags |
 | `iscord.gift`   | Cause for some false positive flags |
 | `discordapp.co` | Cause for some false positive flags |
 
