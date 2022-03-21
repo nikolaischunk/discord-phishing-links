@@ -350,6 +350,7 @@ solana-invest.us
 spaceswars.repl.co
 spiralcircus.org
 splinterslands.me
+sudry.repl.co
 sushiswmap.com
 sushivswap.com
 sushiwab.com
