@@ -4483,6 +4483,7 @@ invite-academy-dc.org
 invite-academy-moderator.com
 invite-bughunter.com
 invite-certifiedmod-exam.com
+invite-form-rc.repl.co
 invite-form-us.repl.co
 invite-formulary-hypesquadevents.com
 invite-hype-squadevents.com
@@ -4508,6 +4509,7 @@ invite-the-hypesquad-events.com
 inviteacademydc.org
 invitebughunter.com
 invited-moderator-academy.com
+inviteform-us.repl.co
 invitemoderator.com
 invitemoderatoracademy.com
 invitemoderatordiscord.com
