@@ -355,6 +355,7 @@ shopiiee.com
 skins-changer.com
 solana-invest.us
 spaceswars.repl.co
+spacewarrior.repl.co
 spiralcircus.org
 splinterslands.me
 stateauthor.repl.co
