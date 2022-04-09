@@ -5686,6 +5686,7 @@ present-nitro.ru
 price-claim.xyz
 profile-442572242.online
 profiles-76582109509.me
+profiles-7685981598976.me
 program-app-discord.com
 program-hypesquad-event.com
 program-hypesquad-events.com
@@ -8162,7 +8163,6 @@ steamcoummunitiy.com
 steamcoummunity.com
 steamcpowered.com
 steamcrommunlty.me
-steamcromnmunity-com.profiles-7685981598976.me
 steamcronnmmuniry.me
 steamcrormmunity.ru
 steamcsgo-game.ru
@@ -10167,8 +10167,6 @@ twitch-facepunchs.com
 twitch-nude.com
 twitch-rust.com
 twitch-starter.com
-twitch.facepunch-llc.com
-twitch.facepunchstudio.com
 twitchdrops.net.ru
 u924157p.beget.tech
 up-discord.com
