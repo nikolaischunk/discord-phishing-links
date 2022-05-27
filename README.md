@@ -1,6 +1,6 @@
 # ⚠️ Discord Phishing Links
 
-A json list of malicious links with 12'000+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
+A json list of malicious links with 12,000+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
 ## NPM Package
 
@@ -46,4 +46,4 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 - [pish.sinking.yachts](https://phish.sinking.yachts/docs#/v2/all_domains_v2_all_get)
 - [anti-fish](https://anti-fish.bitflow.dev)
 
-Huge thanks to this Repositories and API's that allow us to maintain such a huge list of Domains
+Huge thanks to these repositories and API's that allow us to maintain such a huge list of domains.
