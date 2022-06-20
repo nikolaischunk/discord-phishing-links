@@ -2539,6 +2539,7 @@ discord.holiday
 discord.homes
 discord.house
 discord.hype-squad-events.repl.co
+discord.hype-testers.com
 discord.hypesquad-login.repl.co
 discord.hypesquad-us-en.repl.co
 discord.hypesquadevent-teams.repl.co
@@ -4605,6 +4606,7 @@ dlscordapps.com
 dlscordapps.me
 dlscordapps.site
 dlscordb.com
+dlscordc.icu
 dlscordcollabsteam.com
 dlscordd.ru
 dlscorde-apb.com
@@ -5528,6 +5530,7 @@ get-discord.store
 get-fullnltro.com
 get-fulnltro.com
 get-gamesroll.xyz
+get-hypesquad.gq
 get-in-hypesquadevents.com
 get-my-nitro.com
 get-nitro.com
