@@ -55,6 +55,7 @@ academy-moderators-subscriptions.com
 academy-moderators-subscriptions.comr.com
 academy-moderators-test.com
 academy-moderators.online
+academy-moderators.repl.co
 academy-panel.repl.co
 academy-partner.com
 academy-partners.com
@@ -70,6 +71,7 @@ academyexam.repl.co
 academyform.tk
 academyhypesquad-apply.com
 academyhypesquad-form.com
+academyi.repl.co
 academyinvitation.com
 academymoderation-signup.com
 academymoderation.tech
@@ -2466,9 +2468,6 @@ discord-z.com
 discord-zgifts.gq
 discord.abogado
 discord.ac
-discord.academy-moderator.repl.co
-discord.academy-moderators.repl.co
-discord.academyi.repl.co
 discord.accountants
 discord.actor
 discord.ae.org
@@ -2525,7 +2524,6 @@ discord.exchange
 discord.family
 discord.fit
 discord.football
-discord.form-2022.com
 discord.foundation
 discord.freehlp.com
 discord.fun
@@ -2545,12 +2543,6 @@ discord.gq
 discord.holiday
 discord.homes
 discord.house
-discord.hype-squad-events.repl.co
-discord.hype-testers.com
-discord.hypesquad-login.repl.co
-discord.hypesquad-us-en.repl.co
-discord.hypesquadevent-teams.repl.co
-discord.hypesquadusen.repl.co
 discord.ie
 discord.in
 discord.inc
@@ -2566,7 +2558,6 @@ discord.luxe
 discord.ma
 discord.marketing
 discord.me.uk
-discord.moderatoracademy.repl.co
 discord.mom
 discord.moscow
 discord.my
@@ -5159,6 +5150,7 @@ fnaticteam.org.ru
 fnskins.online
 follow-ask.xyz
 foresport.site
+form-2022.com
 form-academy-discord.com
 form-academy-moderator.com
 form-academy-moderators.com
@@ -5813,6 +5805,7 @@ hype-squad-discord.repl.co
 hype-squad-events-forms.repl.co
 hype-squad-events-formsapple.com
 hype-squad-events.com
+hype-squad-events.repl.co
 hype-squad-form.com
 hype-squad-join.com
 hype-squad-program.repl.co
@@ -5831,6 +5824,7 @@ hype-teams-2022.com
 hype-teams-formulary.com
 hype-teams-official.com
 hype-teams-registration.com
+hype-testers.com
 hype-vote.com
 hype-votes-events-moderators.com
 hype-votes-new-events.com
@@ -6049,6 +6043,7 @@ hypesquad-list.com
 hypesquad-log-in-new-events.com
 hypesquad-login-official.com
 hypesquad-login.com
+hypesquad-login.repl.co
 hypesquad-login.tk
 hypesquad-mail.com
 hypesquad-member-signup.com
@@ -6176,6 +6171,7 @@ hypesquad-to.repl.co
 hypesquad-trial-selected.com
 hypesquad-trial.com
 hypesquad-updated.com
+hypesquad-us-en.repl.co
 hypesquad-us.repl.co
 hypesquad-usa.repl.co
 hypesquad-verified.com
@@ -6217,6 +6213,7 @@ hypesquaden.repl.co
 hypesquadevent-forms.com
 hypesquadevent-subscribe.com
 hypesquadevent-team.repl.co
+hypesquadevent-teams.repl.co
 hypesquadevent-to.repl.co
 hypesquadevent.com
 hypesquadevent.repl.co
@@ -6351,6 +6348,7 @@ hypesquadteams-join.com
 hypesquadteams-start.com
 hypesquadteamus.repl.co
 hypesquadus.repl.co
+hypesquadusen.repl.co
 hypesquadvoting.com
 hypesquadwinner.com
 hypessquad-academy.com
@@ -7178,6 +7176,7 @@ moderatoracademy-test.com
 moderatoracademy-tests.com
 moderatoracademy.com
 moderatoracademy.info
+moderatoracademy.repl.co
 moderatoracademydiscord.com
 moderatoracademyforms.com
 moderatoracademyformulary.com
