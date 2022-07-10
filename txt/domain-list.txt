@@ -1046,6 +1046,7 @@ dicsord-ru.ru
 dicsord-show.com
 dicsord-steamgift.com
 dicsord-steamnitro.ru
+dicsord-summer.com
 dicsord-summer.ru
 dicsord-ticket.com
 dicsord.cf
@@ -1463,6 +1464,7 @@ discokd.xyz
 discokds.icu
 discokrd.com
 discolb.xyz
+discold-gift.ru
 discold-nitro.com
 discold-nitro.ru
 discold.icu
@@ -3697,6 +3699,7 @@ discords-gg.com
 discords-giffts.xyz
 discords-gift.com
 discords-gift.gq
+discords-gift.online
 discords-gift.org.ru
 discords-gift.ru
 discords-gift.site
@@ -4306,6 +4309,7 @@ disordnltro.com
 disordnltro.xyz
 disordnltros.com
 disordnltros.gifts
+disordpromotion.us
 disordpromotlons.com
 disords-gift.ru
 disords.gift
@@ -4531,6 +4535,7 @@ dlsccordapps.shop
 dlsccordclub.club
 dlsccordclub.com
 dlsccordgit.ru
+dlsccorrd-app.ru
 dlsccrd.com
 dlscocl.xyz
 dlscocrd.club
@@ -5653,6 +5658,7 @@ formularys-hypesquad-events.ga
 formularys-hypesquad-invite.ga
 formularys-hypesquad-official.com
 formularys-moderatorsacademy.com
+formularys-test-hypesquad.com
 fornite.best
 forsports-real.site
 forsports.pp.ua
@@ -5833,6 +5839,7 @@ get-nitro.net
 get-nitro.online
 get-nitro.org
 get-nitro.xyz
+get-users-beta.ml
 getcach.monster
 getfreediscordnitro.ml
 gethypesquad.com
@@ -6119,9 +6126,11 @@ hype-squad-program.repl.co
 hype-squad-selection.com
 hype-squad.club
 hype-squad.events
+hype-squad.gq
 hype-squad.info
 hype-squad.repl.co
 hype-squadevents-forms.com
+hype-squadevents.fun
 hype-squadmoderator.com
 hype-subscribe-now.com
 hype-support-events-moderators.com
@@ -6280,6 +6289,7 @@ hypesquad-events-moderators.com
 hypesquad-events-moderatos-discord.com
 hypesquad-events-new.com
 hypesquad-events-official.com
+hypesquad-events-official.ga
 hypesquad-events-progam.com
 hypesquad-events-program.com
 hypesquad-events-redeem.com
@@ -6353,6 +6363,7 @@ hypesquad-house-team.com
 hypesquad-house.com
 hypesquad-houses-events.com
 hypesquad-houses.com
+hypesquad-houses.ml
 hypesquad-in-registration.com
 hypesquad-info.com
 hypesquad-info.info
@@ -6404,6 +6415,7 @@ hypesquad-moderation-events.com
 hypesquad-moderation.com
 hypesquad-moderation.xyz
 hypesquad-moderator-academy.com
+hypesquad-moderator-register.gq
 hypesquad-moderator.academy
 hypesquad-moderator.com
 hypesquad-moderator.gq
@@ -6481,6 +6493,7 @@ hypesquad-request-join.com
 hypesquad-request.com
 hypesquad-rescue-again.com
 hypesquad-rescue-app.com
+hypesquad-resgistration-app.gq
 hypesquad-return-discord.com
 hypesquad-return.com
 hypesquad-returned.com
@@ -6492,6 +6505,7 @@ hypesquad-selected.com
 hypesquad-selecteds.com
 hypesquad-selections.com
 hypesquad-selects.com
+hypesquad-server.com
 hypesquad-set-ads.com
 hypesquad-sign-up-today.com
 hypesquad-sign-up.com
@@ -6680,6 +6694,7 @@ hypesquadmoderatos-discord.com
 hypesquadmods.com
 hypesquadnow.repl.co
 hypesquadofficialform.com
+hypesquadpicked.gq
 hypesquadrecruitment-apply.com
 hypesquadregisters.com
 hypesquadreturn.com
@@ -6760,6 +6775,7 @@ hypeteams-formulary.com
 hypeteams-integration-forms.com
 hypeteams-invitation.com
 hypeteams-invites.com
+hypeteams-members.com
 hypeteams-signup.com
 hypeteams-signups.com
 hypeteams-sigup.com
@@ -7176,6 +7192,7 @@ key-dropes.ru
 key-dropo.com
 keydoppler.one
 keydorp.me
+keydrop.host
 keydrop.org.ru
 keydropcs.ru
 keydropp.one
@@ -7923,6 +7940,7 @@ newdiscord.online
 newgifts-reg.ru
 newhypesquad-season.com
 newhypesquadevent.com
+newshypesquad.com
 newyear-discord.com
 nft-bayc.com
 nft-presale.live
@@ -9271,6 +9289,7 @@ sleamcomunivty.ru
 sleamcomunuty.ru
 sleamcomuunity.site
 sleamconmumity.com
+sleamconmunity.com
 sleamconmunity.ru
 sleamconmunity.ru.com
 sleamconmunity.xyz
@@ -9357,6 +9376,7 @@ squad-apply.com
 squad-beta.com
 squad-discord.com
 squad-form.com
+squad-mail.com
 squad-selected.com
 squad-team.com
 squadacademy.repl.co
@@ -9410,6 +9430,7 @@ staemcammynlty.ru
 staemcamunity.com
 staemccommunitly.com
 staemccommunnity.net.ru
+staemcemmdnity.ru
 staemcemmunity.ru
 staemcomcommunlty.ru.com
 staemcomconmunlty.ru.com
@@ -9700,6 +9721,7 @@ steacomnmunify.fun
 steacomnmunity.com
 steacomnunity.com
 steacomnunity.ru.com
+steaecommuily.com
 steaecommunity.com
 steaecommunnity.com
 steaemcamunity.xyz
@@ -9735,6 +9757,7 @@ steam-accounts.com
 steam-accounts.net
 steam-airdrop.com
 steam-airdrops.com
+steam-alrdrop.com
 steam-announcements1.xyz
 steam-api.kenrich.io
 steam-auth.com
@@ -9922,6 +9945,7 @@ steamcamunite.com
 steamcamunitey.com
 steamcamuniti.ru
 steamcamunitu.com
+steamcamunity-comprofiles761995675142458454.ru
 steamcamunity-profile.ru
 steamcamunity.com
 steamcamunity.ru
@@ -10162,7 +10186,9 @@ steamcommuintty.com
 steamcommuinty.com
 steamcommuinty.com.ru
 steamcommuinuity.com
+steamcommuinuty.ru
 steamcommuiti.ru
+steamcommuitiny.com
 steamcommuitliy.com
 steamcommuitly.ru
 steamcommuity.com
@@ -10189,6 +10215,7 @@ steamcommumity.net
 steamcommumity.xyz
 steamcommumiuty.com
 steamcommumlity.com
+steamcommumlty.ga
 steamcommummuity.ru.com
 steamcommumnilty.com
 steamcommumnity.com
@@ -10275,6 +10302,7 @@ steamcommunilty.us
 steamcommunilty.xyz
 steamcommuniltys.com
 steamcommunily.buzz
+steamcommunily.fun
 steamcommunily.net.ru
 steamcommunily.org
 steamcommunily.ru
@@ -10413,6 +10441,7 @@ steamcommunits.ru.com
 steamcommunits.tk
 steamcommunitsy.com
 steamcommunitsy.gq
+steamcommunitsy.org.ru
 steamcommunitsy.ru
 steamcommunitt.ru.com
 steamcommunitt.xyz
@@ -10701,6 +10730,7 @@ steamcommunityxic.top
 steamcommunityxico.top
 steamcommunityxicx.top
 steamcommunityxioc.top
+steamcommunityxiwv.top
 steamcommunityy.com
 steamcommunityy.com.ru
 steamcommunityy.online
@@ -11518,6 +11548,7 @@ steamcormmunlty.com
 steamcormmuuity.ru
 steamcormmynity.ru.com
 steamcormnunity.com
+steamcormnunity.ru
 steamcormrunity.com
 steamcormunity.ru
 steamcormunity.xyz
@@ -12113,6 +12144,7 @@ steancommuinity.me
 steancommuinty.com
 steancommuinty.ru
 steancommuinuty.ru
+steancommuitny.com
 steancommuity.com
 steancommuity.ru
 steancommulily.com
@@ -12159,6 +12191,7 @@ steancommunitq.ru
 steancommunitry.ru
 steancommunitty.com
 steancommunitty.ml
+steancommunitty.net.ru
 steancommunitty.ru
 steancommunitu.me
 steancommunitv.com
@@ -13780,6 +13813,7 @@ takesdpop.ru
 takesdrop.fun
 takesdrop.org.ru
 takesdrop.site
+takesdropes.ru
 tasty-skill.net.ru
 tastyskill.net.ru
 team-apply.com
@@ -13979,6 +14013,7 @@ viearad.top
 vkfplatform.com
 vote-academymod.com
 vote-academymoderators.com
+vote-for-hypesquad.gq
 vote-hypesquad-discord.com
 vote-hypesquad-events.com
 vote-hypesquad-events.gq
@@ -14026,6 +14061,7 @@ welcome-hypesquad.gq
 welcome-moder.com
 welcome-moderation.com
 welcome-to-hypesquad.tk
+welcomehypeteam.com
 welcomehypetest.com
 welcometohypesquad.com
 welcometohypeteam.gq
