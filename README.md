@@ -29,6 +29,7 @@ If your domain was listed as being involved in phishing due to your site being h
 We don't plan on removing links even if they no longer resolve to a valid IP/webpage, as they **are** and **were** still created for phishing. However, if by chance any of these domains are acquired by Discord themselves for legitimate purpose, feel free to create an Issue on that & we will update it accordingly!
 
 ## Known missing domains
+
 | Domain          | Reason                              |
 | --------------- | ----------------------------------- |
 | `ord.gg`        | Cause for some false positive flags |
