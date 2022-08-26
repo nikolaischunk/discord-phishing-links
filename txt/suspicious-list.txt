@@ -16,7 +16,6 @@ accept2.repl.co
 accgen.best
 accountauthorization.xyz
 ach2x.net.ru
-achnavi.net.ru
 adventurecat.tk
 affix-cup.click
 affix-cup.link
@@ -376,19 +375,6 @@ naiedal.top
 naiedel.top
 naiedrl.top
 natusvincere.site
-navi-open.ru
-navi2022.tech
-navi22.com
-navi33.com
-navi51.com
-navi55.com
-navi57.com
-navi6.com
-navi61.com
-navicsgo.ru
-naviez.ru
-naviget.net.ru
-navirool.ru
 nawaves.com
 nft-presale.live
 nierldove.top
@@ -527,7 +513,6 @@ takesdrop.site
 talanka.com
 tarcrypto.com
 team-arena.com
-team-navi.com
 the-red-hand.com
 thelaberynthgame.com
 themekaversed.org
@@ -579,6 +564,7 @@ vbucksplease.com
 vcantakte.xyz
 ventasstore.xyz
 versusgg.xyz
+vertiq.info
 vertmaxbit.com
 victoriajob.fvds.ru
 video-c3.xyz
