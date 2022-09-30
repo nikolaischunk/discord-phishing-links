@@ -102,6 +102,7 @@ bittook.com
 bitxenix.com
 bl0cksrefresh.com
 blasterlegends.com
+blox-flip.com
 blox.land
 bloxpromo.com
 blustcoin.com
@@ -189,6 +190,7 @@ drops4all.org.ru
 drops4all.pp.ru
 drumairabubakar.com
 duffzinhooo.repl.co
+dy-no.deno.dev
 dynobot.io
 dynobots.io
 easy-drop.space
@@ -466,6 +468,8 @@ republicsaleoffers.myshopify.com
 rl-garage.ru
 rlptide.net.ru
 ropost15.xyz
+rovault.com
+rovault.tech
 rubygame.life
 rust-tve.com
 rustroullette.com
@@ -478,6 +482,8 @@ safe-funds.site
 said-home.ru
 scleagues.net
 selos.polska.fvds.ru
+shockify.net
+shocks.ml
 shopiiee.com
 sign4cup.com
 sisyphean-milligram.000webhostapp.com
@@ -526,6 +532,7 @@ theonlinebible.net
 theserbit.com
 think-when.xyz
 thor-case.net.ru
+three.deno.dev
 tik-team-topp.org.ru
 tiktok-mint.online
 timepixies.io
@@ -598,6 +605,7 @@ welcomeleaguepro.com
 weplay.ru.com
 westabit.com
 westart-auth.pro
+weydaotrade.com
 what-were.xyz
 white-stones.in
 whitelampa.xyz
