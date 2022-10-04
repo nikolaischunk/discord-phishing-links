@@ -215,6 +215,7 @@ application-moderator-join.com
 application-moderator.com
 application-moderatoracademy.com
 application-moderators.com
+application-now.gq
 application-recruitment.com
 application-testers-beta.com
 application-testers.com
@@ -5381,7 +5382,10 @@ dwny.org
 dxiscord.com
 dyno-bot.net
 dyno-bot.org
+dyno-bots.com
 dyno-dev.net
+dyno-tool.dev
+dyno-verification.org
 dyno-verify.com
 dyno.host
 dyno.how
@@ -5403,10 +5407,13 @@ dynobot.link
 dynobot.me
 dynobot.vc
 dynobot.wiki
+dynobots.app
 dynobots.co
+dynobots.dev
 dynobots.gg
 dynobots.net
 dynobots.org
+dynocaptcha.dev
 dynoclick.gg
 dynos.gg
 dynos.info
@@ -6548,6 +6555,7 @@ hyperwage.com
 hyperz.monster
 hypesforms-login.com
 hypesqaudevents-mod.com
+hypesquaad.ml
 hypesquad-2022-formulary.com
 hypesquad-2022.com
 hypesquad-2022.ga
@@ -9367,6 +9375,7 @@ robloxapi.info
 robloxbing.com
 robloxdownload.org
 robloxgamecode.com
+robloxgi.com
 robloxgiftcardz.com
 robloxi-sites.com
 robloxi.com.de
@@ -9795,6 +9804,7 @@ sleamcommunitu.xyz
 sleamcommunituy.com
 sleamcommunitvy.com
 sleamcommunity.co
+sleamcommunity.com
 sleamcommunity.com.ru
 sleamcommunity.fun
 sleamcommunity.me
@@ -10274,6 +10284,7 @@ staff-discord.com
 staff-discord.net
 staff-moderators-academy.com
 staffcertified-examacademy.com
+staisticdiscord.com
 stake-drop.com
 stamcommunity.ru
 stamcommunnity.com
@@ -11281,6 +11292,7 @@ steamcommunity.us
 steamcommunity.vov.ru
 steamcommunity.xyz
 steamcommunity1.com
+steamcommunity578080.asia
 steamcommunitya.com
 steamcommunitya.ru
 steamcommunityai.top
@@ -11591,6 +11603,7 @@ steamcommunityzie.cn
 steamcommunityziec.top
 steamcommunityziex.top
 steamcommunityzikr.top
+steamcommunityzio.asia
 steamcommunityzio.club
 steamcommunityzivi.top
 steamcommunityzivl.top
@@ -11599,6 +11612,7 @@ steamcommunityzivo.top
 steamcommunityzivw.top
 steamcommunityzivx.top
 steamcommunityzivz.top
+steamcommunityziw.asia
 steamcommunityzix.club
 steamcommunityzixm.top
 steamcommunityzixn.top
@@ -11918,6 +11932,7 @@ steamcommuty.com
 steamcommutyniu.com
 steamcommutyniy.com
 steamcommuuity.net.ru
+steamcommuuity.ru
 steamcommuulty.com
 steamcommuulty.ru
 steamcommuunilty.com
@@ -11949,6 +11964,7 @@ steamcommuunniity.com
 steamcommuunnity.online
 steamcommuunnity.ru
 steamcommuuntiy.com
+steamcommuuntiy.ru
 steamcommuunty.ru
 steamcommuunuty.ru
 steamcommuwunity.com
@@ -12751,6 +12767,7 @@ steamecommunty.com
 steamecomumnity.com
 steamecomunity.com.ru
 steamecomunnity.com
+steamecomunnity.ru
 steamecoommunity.online
 steamecoommunity.ru
 steamedpowered.com
@@ -13137,6 +13154,7 @@ steamscommunity.ru
 steamscommunity.shop
 steamscommunlity.com
 steamscommunlty.com
+steamscommunnity.ru
 steamscommunty.online
 steamscommunty.ru
 steamscommynitu.co
@@ -14218,6 +14236,7 @@ stelseriesnitros.com
 stemacommuinty.com
 stemacommunity.com
 stemacommunity.net
+stemacommunity.ru
 stemacommunlty.com
 stemacomunity.com
 stemadrop.gq
@@ -15323,6 +15342,7 @@ voting-moderator-academy.com
 vvvv-robiox.com
 vvvvv-roblox.com
 vvvvw-roblox.com
+vvvvww-roblox.com
 vvvw-robiox.com
 vvvw-roblox.com
 vvwvv-roblox-com.cf
@@ -15386,6 +15406,7 @@ wwvv-roblcx.com
 wwvvv-roblox.com
 wwvvww-roblox.com
 wwvwvv-roblox.com
+www-dyno.ink
 www-hypesquad-event.com
 www-robiox.com
 www-robiox.com.nf
