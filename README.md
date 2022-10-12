@@ -30,9 +30,9 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 
 ## Known missing domains
 
-| Domain          | Reason                              |
-| --------------- | ----------------------------------- |
-| `ord.gg`        | Cause for some false positive flags |
+| Domain   | Reason                              |
+| -------- | ----------------------------------- |
+| `ord.gg` | Cause for some false positive flags |
 
 ## Credits:
 
