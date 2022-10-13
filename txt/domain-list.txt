@@ -581,6 +581,7 @@ captcha.observer
 captcha.page
 captcha.pics
 captcha.pm
+captcha.rs
 captcha.sale
 captcha.se
 captcha.wiki
@@ -816,6 +817,7 @@ counterstrik.xyz
 counterstrikeglobaloffensive-2022.top
 cpp-discord.com
 crazy-down.ga
+crew-spacex5.pro
 crtromain.repl.co
 cryptossmoney.com
 cs-authx.money
@@ -1398,6 +1400,7 @@ discard.sbs
 discard.xyz
 discardapp.fun
 discardgift.xyz
+discardgifts.com
 discards.xyz
 discbrd.com
 discbrdapp.com
@@ -5355,6 +5358,7 @@ dsc-gift.com
 dsc-gift.gq
 dsc-glft.com
 dsc-nito.gq
+dscaptcha.app
 dscaptcha.su
 dscd-nitro.ru
 dschecks.com
@@ -5425,6 +5429,7 @@ duxxkkkk.repl.co
 dwaynejon.xyz
 dwny.org
 dxiscord.com
+dyno-authorize.com
 dyno-bot.app
 dyno-bot.net
 dyno-bot.org
@@ -5461,12 +5466,14 @@ dynobot.ai
 dynobot.app
 dynobot.com
 dynobot.link
+dynobot.lol
 dynobot.me
 dynobot.one
 dynobot.sbs
 dynobot.vc
 dynobot.wiki
 dynobots.app
+dynobots.ca
 dynobots.co
 dynobots.dev
 dynobots.gg
@@ -5474,9 +5481,11 @@ dynobots.net
 dynobots.org
 dynobots.sbs
 dynocaptcha.dev
+dynocaptcha.info
 dynocaptcha.io
 dynocaptcha.xyz
 dynocaptchas.com
+dynocaptchas.dev
 dynoclick.gg
 dynos.gg
 dynos.info
@@ -9177,6 +9186,7 @@ quick-cup.xyz
 quickrobux.net
 quisgod777.xyz
 quiz-discord.com
+rablox.tk
 radar-tour.site
 rarllbie.com
 raydiumswap.com
@@ -10107,6 +10117,7 @@ space-2022.org
 space-nitro.com
 special4u.xyz
 spell-must.xyz
+sportcyberecl.ru
 spotifay.cc
 squad-apply.com
 squad-beta.com
@@ -10251,6 +10262,7 @@ staemcommuniy.xyz
 staemcommunllty.ru
 staemcommunlty.com
 staemcommunlty.fun
+staemcommunlty.pw
 staemcommunlty.ru
 staemcommunlty.shop
 staemcommunltyy.com
@@ -10284,6 +10296,7 @@ staemcommunuty.me
 staemcommunuty.ru
 staemcommunyti.ru.com
 staemcommunyty.ru
+staemcommurity.ru
 staemcommuuntys.ru
 staemcommvnity.com
 staemcommynity.xyz
@@ -10780,6 +10793,8 @@ steamccommunityy.ru
 steamccommunnity.com
 steamccommunyty.ru
 steamccommutinny.ru.com
+steamccommynity.net.ru
+steamccommynity.pp.ru
 steamccommyunity.com
 steamccomnmunilty.ru
 steamccomnmunity.ru
@@ -10834,6 +10849,7 @@ steamcommcunity.com
 steamcommeneity.com
 steamcommenity.ru
 steamcommenuity.ru
+steamcommenuty.ru
 steamcommeuneity.ru
 steamcommeuneuity.ru
 steamcommeunity.com
@@ -11058,6 +11074,7 @@ steamcommulltty.com
 steamcommullty.ru
 steamcommulnity.com
 steamcommulnt.ru.com
+steamcommulnty.com
 steamcommulnty.ru
 steamcommulty.com
 steamcommulty.online
@@ -11123,6 +11140,7 @@ steamcommuni.com
 steamcommuniaty.ru
 steamcommunicty.com
 steamcommunicty.ru.com
+steamcommunicy.com
 steamcommunidy.com
 steamcommunidy.ru
 steamcommunieityi.com
@@ -11153,6 +11171,7 @@ steamcommunikkty.net.ru
 steamcommunili.xyz
 steamcommunility.com
 steamcommunility.ru
+steamcommunillity.online
 steamcommunillty.com
 steamcommunillty.net.ru
 steamcommunillty.ru
@@ -11363,6 +11382,7 @@ steamcommunitus.top
 steamcommunitus.xyz
 steamcommunituy.com
 steamcommunituy.ru
+steamcommunituys.ru
 steamcommunitv.com.ru
 steamcommunitv.ru
 steamcommunitvs.com
@@ -11797,6 +11817,7 @@ steamcommunityzko.top
 steamcommunityzkq.top
 steamcommunityzore.top
 steamcommunityzoro.top
+steamcommunityzov.asia
 steamcommunityzowe.top
 steamcommunityzv.top
 steamcommunityzve.top
@@ -11840,6 +11861,8 @@ steamcommunlitily.ru.com
 steamcommunlitlis.ru
 steamcommunlitly.com
 steamcommunlitly.ru
+steamcommunlitty.online
+steamcommunlitty.ru
 steamcommunlitty.ru.com
 steamcommunlity.net
 steamcommunlity.ru.com
@@ -11962,6 +11985,7 @@ steamcommunnltyy.ru
 steamcommunntiy.ru
 steamcommunntl.xyz
 steamcommunntly.com
+steamcommunnttiy.com
 steamcommunnty.ru
 steamcommunnuly.com
 steamcommunnuty.com
@@ -12005,6 +12029,7 @@ steamcommuntly.ru
 steamcommuntru.ru
 steamcommuntry.com
 steamcommuntry.ru
+steamcommunttiy.com
 steamcommuntty.com
 steamcommuntuy.com
 steamcommunty.buzz
@@ -12111,6 +12136,7 @@ steamcommutry.ru
 steamcommuty.com
 steamcommutyniu.com
 steamcommutyniy.com
+steamcommuuity.com
 steamcommuuity.net.ru
 steamcommuuity.ru
 steamcommuulty.com
@@ -12138,6 +12164,7 @@ steamcommuunlity.com
 steamcommuunlity.online
 steamcommuunlity.ru
 steamcommuunltu.ru
+steamcommuunlty.com
 steamcommuunlty.ml
 steamcommuunlty.ru
 steamcommuunlty.tk
@@ -12279,6 +12306,7 @@ steamcomnnunity.com
 steamcomnnunity.me
 steamcomnnunity.ru
 steamcomnnunity.shop
+steamcomnnunity.store
 steamcomnnunlty.com
 steamcomnnunlty.me
 steamcomnnunlty.ru
@@ -12412,6 +12440,7 @@ steamcomnynitiy.ru
 steamcomnynitu.com
 steamcomnynity.ru
 steamcomnynty.ru
+steamcomnyunity.com
 steamcomonity.com
 steamcomrmunity.com.ru
 steamcomrmunity.ru
@@ -12441,6 +12470,7 @@ steamcomrnunity.su
 steamcomrnunity.xyz
 steamcomrnunityy.com
 steamcomrnuniuty.com
+steamcomrnunlity.com
 steamcomrnunlty.com
 steamcomrnunty.com.ru
 steamcomrnunuity.ru.com
@@ -12776,6 +12806,7 @@ steamcoomnity.ru
 steamcoomnunity.com
 steamcoomrnmunity.ml
 steamcoomunity-nitro.site
+steamcoomunity.com
 steamcoomunity.xyz
 steamcoomunitye.com
 steamcoomunjty.com
@@ -12828,6 +12859,7 @@ steamcornmunity.org.ru
 steamcornmunity.pp.ru
 steamcornmunity.ru
 steamcornmunity.top
+steamcornmunlity.com
 steamcornmunlty.ru
 steamcornmunnitly.xyz
 steamcornmunty.com
@@ -13024,6 +13056,7 @@ steamldiscord.com
 steamlink.ru
 steamlnitro.com
 steamlog.xyz
+steamlpowered.com
 steamlwanmei.ru
 steamm.store
 steammatily.online
@@ -13334,6 +13367,7 @@ steamrcommuniity.com
 steamrcommunily.com
 steamrcommunity.com
 steamrcommunity.ru
+steamrcommunity.site
 steamrcomrmunlty.com
 steamrcomrnunity.com
 steamrcornmunity.com
@@ -14291,6 +14325,7 @@ steeamcomunity.net
 steeamcomunlty.ru
 steeamcomunlty.ru.com
 steeamcomunnlty.com
+steeamcomuunity.com
 steeamcoommuunniity.com
 steeamcoummuunity.ru
 steeammcomunity.com
