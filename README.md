@@ -1,6 +1,6 @@
 # ⚠️ Discord Phishing Links
 
-A json list of malicious links with 12,000+ unique Domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
+A JSON list of malicious links with ![domains](https://img.shields.io/badge/dynamic/json?color=inactive&label=&query=count&url=https%3A%2F%2Fapi.schunk.dev%2Fapi%2Fdomain%2Fcount&cacheSeconds=3600) unique domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
 ## NPM Package
 
@@ -11,7 +11,7 @@ The JSON is the source of the NPM Package [stop-discord-phishing](https://www.np
 This list will be updated every day, if you have domains that are not on that list, feel free to create a Pull Request or an Issue, we will add them as soon as possible!
 
 - Feel free to support this project by starring this repo!
-- Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/nikolaischunk/discord-phishing-links/blob/main/CONTRIBUTING.md) before submitting a PR!
+- Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/nikolaischunk/discord-phishing-links/blob/main/CONTRIBUTING.md) before submitting a pull request!
 
 ## Contributors
 
@@ -20,7 +20,7 @@ This list will be updated every day, if you have domains that are not on that li
 </a>
 <br/>
 
-## Removing a domain
+## Removing a Domain
 
 If your domain was listed as being involved in phishing due to your site being hacked or some other reason, please create a False Positive Issue. It unfortunately happens to many website owners.
 
@@ -30,11 +30,9 @@ We don't plan on removing links even if they no longer resolve to a valid IP/web
 
 ## Known missing domains
 
-| Domain          | Reason                              |
-| --------------- | ----------------------------------- |
-| `ord.gg`        | Cause for some false positive flags |
-| `iscord.gift`   | Cause for some false positive flags |
-| `discordapp.co` | Cause for some false positive flags |
+| Domain   | Reason                              |
+| -------- | ----------------------------------- |
+| `ord.gg` | Cause for some false positive flags |
 
 ## Credits:
 
