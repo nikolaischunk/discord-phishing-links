@@ -1,4 +1,5 @@
 0x1trade.com
+0xmons.net
 1337-skull.xyz
 1984-redux.xyz
 2021cs.net.ru
@@ -69,6 +70,7 @@ ataribtc.com
 athulop1.repl.co
 aucryptohubs.com
 authnet.cf
+authvulcan.xyz
 autumnbot.cloud
 avatizer-nft.xyz
 avitofast.ru
@@ -182,6 +184,7 @@ cointradebtc.com
 collect-trumpcard.xyz
 com-lottery.club
 companyforyouthsome.com
+connect-vulcan.xyz
 coolerones.com
 copyrightbusinessgroup.com
 copyrightbussinessgroup.com
@@ -350,6 +353,7 @@ globaltour.pp.ua
 go963029741.asia
 gool-lex.org.ru
 gortide.net.ru
+grd.deno.dev
 greatgreat.xyz
 green-nitrogen.com
 grlb-free.xyz
@@ -731,6 +735,13 @@ viwwzagulw.xyz
 viwwzaguly.xyz
 vk-razda4ka.ru
 vkbonus.club
+vulcan.bz
+vulcan.gs
+vulcan.pm
+vulcan.tel
+vulcan.wf
+vulcanauth.eu
+vulcauth.com
 vxpujdxvufbg.com
 walkers-crypto.xyz
 walletsolutiontrust.net
