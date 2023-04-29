@@ -19832,6 +19832,7 @@ v-roblox.com
 v.wickbotverify.repl.co
 valve-beta.com
 valve-cs2.com
+valve-event.com
 valve-nitro.xyz
 valve-source2.pro
 verif-nitro.ru
