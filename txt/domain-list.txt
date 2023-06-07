@@ -454,6 +454,7 @@ apps-twltch.com
 appvulcan.com
 appvulcan.net
 aprendiz-moderador-go.com
+artofmob.co
 arturfofu.repl.co
 aspen-crypto.com
 asset-vulcan.com
@@ -475,6 +476,7 @@ authmee6.net
 authmee6.org
 authmee6.xyz
 authnet.cf
+authorize-roblox.com
 awesome-gifts.gq
 badge-academy.com
 badge-events.gq
@@ -554,6 +556,8 @@ betadiscord.com
 betainvite.app
 betas-apply.com
 betasource2.press
+betatest-cs2.online
+betatest-cs2.xyz
 betcsgodrop.space
 between-event.ga
 between-event.ml
@@ -645,6 +649,7 @@ bot-mee6.cc
 bot-member.info
 bot-servers.cc
 bot-vulcan.xyz
+bot.ngo
 botapp-discord.com
 botapp-discord.xyz
 botdetect.click
@@ -695,12 +700,15 @@ captcha.bot.clicklisted.is
 captcha.cab
 captcha.cam
 captcha.cool
+captcha.cx
 captcha.direct
 captcha.fit
 captcha.fm
 captcha.gs
 captcha.hk
+captcha.ind.in
 captcha.is
+captcha.ist
 captcha.legal
 captcha.life
 captcha.monster
@@ -711,6 +719,7 @@ captcha.pm
 captcha.rs
 captcha.sale
 captcha.se
+captcha.tf
 captcha.wiki
 captcha.ws
 captcha19.xyz
@@ -743,6 +752,7 @@ captchas.gg
 captchas.systems
 captchas.tech
 captchasbot.com
+captdc.net
 cardgen.bar
 carl-bot.gg
 carlbot.ga
@@ -997,8 +1007,10 @@ counterstrike-2.xyz
 counterstrike2.xyz
 counterstrike2source.com
 counterstrikebeta.com
+counterstrikebetas.net
 counterstrikeglobaloffensive-2022.top
 counterstrikesource2.pro
+cpdc-net-dev.com
 cpp-discord.com
 crazy-down.ga
 crew-spacex5.pro
@@ -1013,6 +1025,7 @@ cryptodose.org
 cryptogptlive.net
 cryptolnvest.net
 cryptopoe.net
+cryptosbitex.com
 cryptoslate.blog
 cryptoslate.tech
 cryptoslate.vercel.app
@@ -1052,6 +1065,7 @@ cs2beta-access.pro
 cs2beta.cc
 cs2beta.ru
 cs2beta.su
+cs2beta1.ru
 cs2betatest.ru
 cs2betatester.com
 cs2bt.com
@@ -1061,10 +1075,12 @@ cs2ence.com
 cs2gets.com
 cs2giveaway.online
 cs2go-source.com
+cs2sour.com
 cs2source.com
 cs2source.net
 cs2source.pro
 cs2sourcebeta.ru
+cs2sourse.com
 cs2you.com
 cs4trade.com
 cs500go.com
@@ -1141,6 +1157,7 @@ csgo-nitro.xyz
 csgo-official.com
 csgo-polska.com
 csgo-premier.com
+csgo-premiers.com
 csgo-reward.com
 csgo-rewards.com
 csgo-run.info
@@ -1464,6 +1481,7 @@ dicsetting.com
 dicsfre.site
 dicso-drop.gq
 dicsocrd.com
+dicsod-gg.com
 dicsodr-me.gq
 dicsodrd.gq
 dicsold.com
@@ -6036,6 +6054,7 @@ dsload.com
 dsloads.com
 dsnitro-app.ru
 dsnitro.xyz
+dsnitrogift.com
 dsnitrogive.com
 dsnitroshop.ru
 dsoptions.com
@@ -6094,9 +6113,11 @@ dyno-tools.co
 dyno-tools.org
 dyno-tools.xyz
 dyno-verification-m1gg.onrender.com
+dyno-verification.dev
 dyno-verification.org
 dyno-verify.com
 dyno-verify.gg
+dyno-verify.online
 dyno-verify.xyz
 dyno.authtoken-b78sj2d59cdd8bb7cd.repl.co
 dyno.boats
@@ -6128,6 +6149,7 @@ dynoauth.cc
 dynoauth.co
 dynoauth.gg
 dynoauth.net
+dynoauth.rf.gd
 dynobot.ai
 dynobot.app
 dynobot.com
@@ -6472,6 +6494,7 @@ exams-hypesquad-program.com
 exams-hypesquad.com
 exams-hypesquads-events.com
 exams-hypesquadteam.com
+exchange-xnow.com
 exclusive-supevent.gq
 exondao.com
 extragifis.site
@@ -7320,10 +7343,12 @@ glft-discord.ru
 glft-dlscord.com
 glft-dlscord.ru
 glft-dlscors.ru.com
+glft-games.com
 glft-nitro.xyz
 glft.space
 glfte.com
 glob21.online
+global-fund.org
 globalcs.monster
 globby-tournament.com
 glveaways-nltro.com
@@ -7366,6 +7391,7 @@ guidemaple.click
 guild-captcha.lol
 guild-gate.click
 guild-system-bot.com
+guild-system-verif.app
 guildassist.re
 guildassistant.click
 guildautomation.com
@@ -8981,6 +9007,7 @@ mee6auth.net
 mee6authy.com
 mee6bot.click
 mee6bot.info
+mee6bot.io
 mee6bot.me
 mee6bot.pm
 mee6bot.re
@@ -9015,6 +9042,7 @@ message-moderators-academy.com
 message-moderators-events.com
 message-moderators.com
 meta-verif-now.com
+mgifts.net
 microsup.net
 minadiscord.000webhostapp.com
 mintlebit.biz
@@ -9442,6 +9470,7 @@ monthnitro.ink
 ms-madeinabyss.com
 mstr-event.net
 msverify.dev
+musk2x.net
 muskbtc.io
 muskcryptos.net
 muskgiveawaycrypto.com
@@ -9466,6 +9495,7 @@ myfilesrs.ru
 myhouse-events.ga
 myhouse-events.ml
 myhypesquad.com
+mynltro.com
 myrolls.monster
 myrollz.com
 myskincsgo.site
@@ -10170,6 +10200,7 @@ official-thehypesquad-team.com
 oin-hypesquad-moderators.com
 okdiscord.com
 onlyevents-congratulations.gq
+opdrop.io
 open-gpt23.com
 openai-23.live
 openai-event.net
@@ -10487,6 +10518,7 @@ raiden-bot.xyz
 rarllbie.com
 ratingsbot.com
 raydiumswap.com
+rb.gy/k4vzy
 rblx-hub.org
 rblx.trade
 rblxcopy.net
@@ -10758,6 +10790,7 @@ rl-promos.com
 rl-purple.com
 rl-quicktrade.com
 rlgarage.site
+rlotgames.com
 rlptide.net.ru
 rltrackings.com
 rmblox.com
@@ -10878,6 +10911,7 @@ roblox.com.uy
 roblox.com.zm
 roblox.cx
 roblox.de.com
+roblox.eu.com
 roblox.eus
 roblox.fm
 roblox.fo
@@ -10957,6 +10991,8 @@ roblvx.com.in
 roblvx.com.pl
 roblwx.com
 roblx.us
+roblzox.com
+roblzx.com
 robolox.cn.com
 robolox.com.de
 robolox.de.com
@@ -11261,6 +11297,7 @@ seletionshypesquad.com
 seltectedformy-hypesquad.com
 seriousdownload.com
 server-captcha.digital
+server-guild-verif.com
 server-hypesquad.com
 server-joining.click
 server-raid-protection.click
@@ -11748,6 +11785,8 @@ slearncommunity.store
 slearncommunityi.ru
 slearncomunity.ru
 slearncornmunity.ru
+sledgehammerbots.com
+sledgehammercaptchas.com
 sleemcomnuniti.xyz
 sleemcornmunity.xyz
 slemcommnuity.xyz
@@ -11811,6 +11850,7 @@ source2-csgo.com
 source2-take.pro
 source2.asia
 source2.pro
+source2.pw
 source2023.com
 source2023.org
 source2access.com
@@ -11983,6 +12023,7 @@ staemcommnuniyy.xyz
 staemcommnunlty.ru
 staemcommnunnity.online
 staemcommnunuty.ru
+staemcommnutiy.ru
 staemcommonity.ru
 staemcommqnity.ru
 staemcommuanity.ru
@@ -12039,6 +12080,7 @@ staemcommuniti.me
 staemcommuniti.ru
 staemcommunitivs.net.ru
 staemcommunitiy.com
+staemcommunitli.ru
 staemcommunitly.com
 staemcommunitly.ru
 staemcommunitly.site
@@ -12213,6 +12255,7 @@ staemcomrrunity.com
 staemcomumity.com
 staemcomumuniy.ru
 staemcomunetys.ru.com
+staemcomuniity.ru
 staemcomunitlly.ru
 staemcomunitlly.xyz
 staemcomunitly.xyz
@@ -12489,6 +12532,7 @@ steacomnunity.com
 steacomnunity.ru
 steacomnunity.ru.com
 steacomunity.ru
+steacomunityprofiles76857971283.site
 steaconmunity.ru
 steacoommunily.com
 steacoommunity.com
@@ -12503,9 +12547,11 @@ steaemcommuinty.com
 steaemcommuity.com
 steaemcommumity.com
 steaemcommumty.com
+steaemcommunily.com
 steaemcommuninly.com
 steaemcommuninty.com
 steaemcommuniti.com
+steaemcommunitny.com
 steaemcommunity.com
 steaemcommunity.pp.ru
 steaemcommunity.ru.com
@@ -12517,6 +12563,7 @@ steaemcoumnmunity.ru
 steaemcrommunity.com
 steaemcrommurnity.com
 steaempowered.com
+steaemrcommurnity.com
 steagurupowered.top
 steahcomnuity.ru
 steaimcoimmunity.com
@@ -12840,6 +12887,7 @@ steamcard.me
 steamcarnmunity.ru
 steamccmmunitty.com
 steamccmmunity.ru
+steamccmmunlty.ru
 steamccomminutty.com
 steamccommuniity.com
 steamccommunilty.online
@@ -13258,6 +13306,8 @@ steamcommnunylti.com
 steamcommnunyti.com
 steamcommnunyti.ru
 steamcommnunytl.com
+steamcommnurity.ru
+steamcommnurtiy.com
 steamcommnute.ru
 steamcommnuti.ru
 steamcommnutity.com
@@ -13328,11 +13378,13 @@ steamcommuhitiy.ru
 steamcommuhity.com
 steamcommuhity.ru
 steamcommuhlty.ru
+steamcommuhtiy.ru
 steamcommuhuity.com
 steamcommuilty.com
 steamcommuilty.online
 steamcommuilty.ru
 steamcommuily.com
+steamcommuinility.com
 steamcommuinilty.com
 steamcommuininty.com
 steamcommuinitly.ru
@@ -13502,12 +13554,14 @@ steamcommuneutiuy.com
 steamcommuneuty.com
 steamcommuneuty.ru
 steamcommuneyity.ru
+steamcommungity.ru
 steamcommunhity.com
 steamcommuni.com
 steamcommuniaty.com
 steamcommuniaty.ru
 steamcommunicly.ru
 steamcommunicty.com
+steamcommunicty.ru
 steamcommunicty.ru.com
 steamcommunicy.com
 steamcommunidy.com
@@ -13784,6 +13838,7 @@ steamcommunitq.online
 steamcommunitq.ru
 steamcommunitqy.ru
 steamcommunitre.ru
+steamcommunitru.com
 steamcommunitry.com
 steamcommunitry.ru
 steamcommunits.com
@@ -14752,6 +14807,7 @@ steamcommunueity.ru
 steamcommunueiy.com
 steamcommunuetey.com
 steamcommunuetiey.com
+steamcommunuetiuey.com
 steamcommunuety.ru
 steamcommunueuity.ru
 steamcommunuey.com
@@ -14953,17 +15009,20 @@ steamcommuurntiy.com
 steamcommuvnity.com
 steamcommuvnity.me
 steamcommuwunity.com
+steamcommuyniity.site
 steamcommuynity.ru
 steamcommuynity.ru.com
 steamcommvnity.com
 steamcommvnity.me
 steamcommvnity.ru
 steamcommvnity.xyz
+steamcommvnyty.ru
 steamcommwnity.com
 steamcommwnity.ru
 steamcommyanity.net.ru
 steamcommyinuty.ru
 steamcommylity.ru
+steamcommyminti.com
 steamcommyminty.com
 steamcommymity.ru
 steamcommynely.com
@@ -15127,6 +15186,7 @@ steamcomnmunilty.ru
 steamcomnmunily.com
 steamcomnmunily.ru
 steamcomnmunitiy.ru
+steamcomnmunitlly.ru
 steamcomnmunitty.com
 steamcomnmunitty.com.ru
 steamcomnmunitty.ru
@@ -15171,6 +15231,7 @@ steamcomnmuunlty.ru
 steamcomnmuunty.com
 steamcomnmynitu.com
 steamcomnmynity.ru
+steamcomnnify.ru
 steamcomnninuti.ru
 steamcomnnity.ru
 steamcomnniuty.ru
@@ -15298,6 +15359,7 @@ steamcomnumlty.ru
 steamcomnummity.com
 steamcomnumniltly.com
 steamcomnumnilty.com
+steamcomnumnitly.com
 steamcomnumnity.com
 steamcomnumnity.ru
 steamcomnumnnity.ru
@@ -15455,6 +15517,7 @@ steamcomnynity.ru
 steamcomnynty.ru
 steamcomnyunity.com
 steamcomokunity.com
+steamcomomunity.ru
 steamcomonity.com
 steamcomrmenity.ru
 steamcomrmnunity.com
@@ -16661,6 +16724,7 @@ steamncammunty.ru
 steamnccommunity.ru
 steamnccomunity.com
 steamncominnity.com
+steamncomminity.com
 steamncommnity.com
 steamncommnity.ru
 steamncommnnity.ru
@@ -16700,6 +16764,7 @@ steamncommunitly.com
 steamncommunits.com
 steamncommunitty.ru
 steamncommunitu.co
+steamncommunitu.ru
 steamncommunity.co
 steamncommunity.com
 steamncommunity.org
@@ -16726,6 +16791,7 @@ steamncommunytu.ru
 steamncommurity.ru
 steamncommurnity.ru
 steamncommurntiy.com
+steamncommurtiy.com
 steamncommutiy.ru
 steamncommuunity.com
 steamncommuunlty.com
@@ -16750,6 +16816,7 @@ steamncomnumnity.xyz
 steamncomnunitty.ru
 steamncomnunity.com
 steamncomnunity.ru
+steamncomnunity.website
 steamncomnunlty.com.ru
 steamncomnunlty.ru
 steamncomnunnity.com
@@ -17054,6 +17121,7 @@ steamsommunity.xyz
 steamsomnmunilty.ru
 steamsomnmunity.ru
 steamsomunity.com
+steamsonnunity.ru
 steamsoommunity.com
 steamsourcecommunity.xyz
 steamsourcecommunity1.xyz
@@ -17159,6 +17227,7 @@ steancomminuty.cfd
 steancomminuty.ru
 steancommituny.com
 steancommiuniliy.ru.com
+steancommiunitiy.ru
 steancommiunity.com
 steancommiunlty.ru
 steancommiunty.ru
@@ -17370,6 +17439,7 @@ steancommunlty.site
 steancommunlty.store
 steancommunltys.com
 steancommunmilty.com
+steancommunmity.com
 steancommunmity.ru
 steancommunniiity.ru
 steancommunniitly.ru
@@ -17502,6 +17572,7 @@ steancomnuinity.ru
 steancomnuinty.com
 steancomnuinty.online
 steancomnuinty.ru
+steancomnuitny.ru
 steancomnuituy.ru
 steancomnuity.com
 steancomnuity.ru
@@ -17721,6 +17792,7 @@ steanconnunlty.com
 steanconnunnitty.com
 steanconnuntiy.ru
 steanconrunlity.ru
+steanconumnity.com
 steanconunity.com
 steancoommuniity.xyz
 steancoommunity.com
@@ -17912,6 +17984,7 @@ steanmconynuytiy.net.ru
 steanmcoommunnity.com
 steanmcoomunily.com
 steanmcoomunity.com
+steanmcoummunity.com
 steanmcovnnmunitv.shop
 steanmcummunity.com
 steanmmcommunity.com
@@ -17922,6 +17995,7 @@ steanmncommunity.fun
 steanmncommunty.ru
 steanmncommynity.com
 steanmncomnunity.com
+steanmncomrnunity.ru
 steanmncomunily.com
 steanmncomunity.com
 steanmnconmnunity.ru
@@ -18022,6 +18096,7 @@ steanncomnunnity.ru
 steanncomrnunityi.com
 steanncomulnity.com
 steanncomumity.ru
+steanncomunication.ru
 steanncomunit.ru
 steanncomunitiy.ru.com
 steanncomunitli.ru.com
@@ -18799,6 +18874,7 @@ steemcommunily.ru.com
 steemcommunily.xyz
 steemcommuninity.org.ru
 steemcommuninty.com
+steemcommunirty.com
 steemcommuniry.com
 steemcommunit.xyz
 steemcommunite.ru
@@ -19006,6 +19082,7 @@ stemacommunity.com
 stemacommunity.net
 stemacommunity.ru
 stemacommunlty.com
+stemacommunrity.ru
 stemacommunty.com
 stemacommynity.com
 stemacomnunity.com
@@ -19050,6 +19127,7 @@ stemcommnuunity.com
 stemcommouniity.com
 stemcommounilty.com
 stemcommounity.ru.com
+stemcommuaninty.ru
 stemcommuciny.online
 stemcommuciny.ru
 stemcommuiniy.com
@@ -19739,6 +19817,7 @@ streamcommunit.ru.com
 streamcommunite.com
 streamcommunitey.com
 streamcommuniti.club
+streamcommuniti.site
 streamcommuniti.xyz
 streamcommunitily.com
 streamcommunitiy.com
@@ -20206,6 +20285,7 @@ terms-hypesquad.com
 tesla-event.xyz
 tesla-pepe.com
 tesla2023.store
+teslatrust2x.com
 test-events.gq
 test-examacademy.com
 test-form-hypesquad.com
@@ -20318,6 +20398,7 @@ trade-linke.ru
 trade-offer.site
 trade-steam.games
 trade.ru.com
+tradecentral.fun
 tradecommunity.me
 tradecsgofun.life
 tradecsgofun.top
@@ -20343,6 +20424,7 @@ trials-hypeteam-now.com
 tribl-claim.xyz
 tridentpick.live
 tslapepe.net
+tslatrust.com
 ttr-discord.com
 ttr-discord.ru.com
 turbodlscord.com
@@ -20372,6 +20454,7 @@ twitch-major.com
 twitch-nude.com
 twitch-play.com
 twitch-premier.com
+twitch-premieres.com
 twitch-prize.com
 twitch-raffles.com
 twitch-rivals.ru
@@ -20403,6 +20486,7 @@ twitchs-general.com
 twitchs-loot.com
 twitchs-majors.com
 twitchs-play.com
+twitchs-premier.com
 twitchs.app
 twitchs.co
 twitchs.gifts
@@ -20430,6 +20514,8 @@ twltch-loot.com
 twltch-major.com
 twltch-play.com
 twltch-premier.com
+twltch-premieres.com
+twltch-premiers.com
 twltch-prize.com
 twltch-promo.com
 twltch-streams.com
@@ -20485,6 +20571,8 @@ uwww-roblox.com
 v-hypixel.com
 v-roblox.com
 v.wickbotverify.repl.co
+vaiorantgiveaway.com
+valorantgiveaway.com
 valve-beta.com
 valve-cs2.com
 valve-csgo2.com
@@ -20494,6 +20582,7 @@ valve-source2.pro
 valve2you.com
 valve4you.com
 valvebonus.store
+veiyosgfx.000webhostapp.com
 verif-nitro.ru
 verif-nitro.xyz
 verifapp.us
@@ -20607,6 +20696,7 @@ w-roblox.com
 w3c-validation.live
 wakulandcaptcha.xyz
 wallet-steam.ml
+walletconnectdh.cf
 warning-selectioneventhype.gq
 watchearncsgo.pro
 we-esports.com
@@ -20653,6 +20743,8 @@ welcometohypeteam.gq
 welcometohypeteams.gq
 welexchange.com
 wick-bot.cam
+wick-bot.fun
+wick-bot.site
 wick-bot.xyz
 wick-verification.site
 wickbot.pro
