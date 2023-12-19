@@ -2,6 +2,14 @@
 
 A JSON list of malicious links with ![domains](https://img.shields.io/badge/dynamic/json?color=inactive&label=&query=count&url=https%3A%2F%2Fapi.schunk.dev%2Fapi%2Fdomain%2Fcount&cacheSeconds=3600) unique domains which are used for [phishing](https://en.wikipedia.org/wiki/Phishing) on [Discord](https://discord.com).
 
+> [!WARNING] 
+> This Repository is in *maintanance mode* and will no longer be actively maintained. While we appreciate your contributions, we will only merge pull requests that adhere to the format specified in the [CONTRIBUTING.md](https://github.com/nikolaischunk/discord-phishing-links/blob/main/CONTRIBUTING.md)
+>
+> We understand that you may still find value in this project, and we encourage you to fork it or use it as a reference for your own work. If you encounter any critical issues, please feel free to open a bug report, but please note that it may not be actively addressed.
+
+Thank you for your understanding and support.
+
+
 ## NPM Package
 
 The JSON is the source of the NPM Package [stop-discord-phishing](https://www.npmjs.com/package/stop-discord-phishing). Feel free to check it out!
